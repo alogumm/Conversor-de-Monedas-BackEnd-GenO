@@ -1,0 +1,23 @@
+
+# IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# Misc
+*.log
+*.swp
+*~.nib
+*.bak
+*.tmp
+*.orig
+*.rej
+*.class
